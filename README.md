@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz! 👋
+# Olá, eu sou o Luis! 👋
 
 ### 👨‍💻 Sobre Mim
 Acabei de me formar como **Técnico em Desenvolvimento de Sistemas**. Sou um desenvolvedor focado em criar soluções que unem funcionalidade, segurança e uma excelente experiência para o utilizador. Tenho facilidade em transitar entre o Front-end, Back-end e Mobile.
